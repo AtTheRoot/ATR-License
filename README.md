@@ -12,7 +12,8 @@
 <a name="post-art-title"></a>
 This Ethical License for Open Source, created by [At The Root](https://attheroot.dev/about)
 
-<img src="https://img.shields.io/liberapay/patrons/thufie.svg?logo=liberapay">
+<img src="https://img.shields.io/badge/license-ATR-yellow">
+<a href="https://opencollective.com/at-the-root"><img src="https://img.shields.io/opencollective/all/at-the-root"></a>
 
 ## Table of Contents
 
@@ -35,7 +36,9 @@ This is a draft version, pre 1.0 of the AntiRacist License. We are accepting con
 
 ##  [🔗](usage) Usage
 
-Copy the license into the root directory of your project, add your copyright information and use the abbreviation `ATR` where necessary to describe your choice of license.
+Copy the license into the root directory of your project, add your copyright information and use the abbreviation `ATR` where necessary to describe your choice of license. Add badge to the `README.md` of your project.
+
+<img src="https://img.shields.io/badge/license-ATR-yellow">
 
 ### [🔗](faq) FAQ
 
