@@ -12,6 +12,7 @@
 <a name="post-art-title"></a>
 This Ethical License for Open Source, created by [At The Root](https://attheroot.dev/about)
 
+
 <img src="https://img.shields.io/badge/license-ATR-yellow">
 <a href="https://opencollective.com/at-the-root"><img src="https://img.shields.io/opencollective/all/at-the-root"></a>
 
@@ -28,7 +29,6 @@ This Ethical License for Open Source, created by [At The Root](https://attheroot
 
 
 # [AntiRacist Ethical Source License](top)  
-
 
 Ethical Source Licenses empower Open Source Contributors to know that the derivative works of their intellectual property will be used to build a world in which we are all comfortable. It is with great imagination and determination that we present The AntiRacist License (also known as the ATR License) in earnest. 
 
@@ -67,10 +67,10 @@ Copy the license into the root directory of your project, add your copyright inf
 Interested in writing about the AntiRacist License? email <a href="mailto:contact@theroot.dev">contact@theroot.dev</a>
 
 ## [Contributors](contributors) 
-- Leland Gill
-- John Soto 
-- Dawn Wages
-- Sameeul Haque
+- Leland Gill, lead contributor
+- John Soto, press and communications guru 
+- Dawn Wages, ATR founder and contributor 
+- Sameeul Haque, legal counsel
 
 ## [Adopters](adopters)
 
