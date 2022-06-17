@@ -12,32 +12,37 @@
 <a name="post-art-title"></a>
 This Ethical License for Open Source, created by [At The Root](https://attheroot.dev/about)
 
-<img src="https://img.shields.io/liberapay/patrons/thufie.svg?logo=liberapay">
+
+<img src="https://img.shields.io/badge/license-ATR-yellow">
+<a href="https://opencollective.com/at-the-root"><img src="https://img.shields.io/opencollective/all/at-the-root"></a>
 
 ## Table of Contents
 
-- [🔗](top) AntiRacist Ethical Source License 
-- [🔗](draft) Draft Status
-- [🔗](usage) Usage
-- [🔗](faq) FAQ
-- [🔗](press) Press Coverage
-- [🔗](contributors) Contributors
+- [🔗 AntiRacist Ethical Source License](#top)  
+- [🔗 Draft Status](#draft) 
+- [🔗 Usage](#usage)
+- [🔗 FAQ](#faq)
+- [🔗 Press Coverage](#press)
+- [🔗 Contributors](#contributors)
+- [🔗 Adopters](#adopters)
+- [🔗 Contributing](#contributing)
 
 
-# [🔗](top) AntiRacist Ethical Source License 
-
+# [AntiRacist Ethical Source License](top)  
 
 Ethical Source Licenses empower Open Source Contributors to know that the derivative works of their intellectual property will be used to build a world in which we are all comfortable. It is with great imagination and determination that we present The AntiRacist License (also known as the ATR License) in earnest. 
 
-## [🔗](draft) Draft Status
+## [Draft Status](draft)
 
 This is a draft version, pre 1.0 of the AntiRacist License. We are accepting contributors for the first release. To learn more about how to contribute check out the <a href="#">Contributon</a> section below. This license has been adapted from the [Hippocratic License 3.0](https://firstdonoharm.dev)
 
-##  [🔗](usage) Usage
+##  [Usage](usage) 
 
-Copy the license into the root directory of your project, add your copyright information and use the abbreviation `ATR` where necessary to describe your choice of license.
+Copy the license into the root directory of your project, add your copyright information and use the abbreviation `ATR` where necessary to describe your choice of license. Add badge to the `README.md` of your project.
 
-### [🔗](faq) FAQ
+<img src="https://img.shields.io/badge/license-ATR-yellow">
+
+## [FAQ](faq) 
 
 > Q. Why create this license?
 > 
@@ -57,21 +62,21 @@ Copy the license into the root directory of your project, add your copyright inf
 >
 > Ultimately, the goal of the Hippocratic License is different than that of this license: The HL3 sets to communicate a widely accepted standard of human rights and demand its equal application over open code, while The AntiRacist License (ATR) seeks specific and thoughtful protections for people marginalized on the basis of race or attribtues commonly conflated with race and its application to open code.
 
-## [🔗](press) Press Coverage
+## [Press Coverage](press) 
 
 Interested in writing about the AntiRacist License? email <a href="mailto:contact@theroot.dev">contact@theroot.dev</a>
 
-## [🔗](contributors) Contributors
-- Leland Gill
-- John Soto 
-- Dawn Wages
-- Sameeul Haque
+## [Contributors](contributors) 
+- Leland Gill, lead contributor
+- John Soto, press and communications guru 
+- Dawn Wages, ATR founder and contributor 
+- Sameeul Haque, legal counsel
 
-## Adopters
+## [Adopters](adopters)
 
 Submit a PR! Add yourself to our [adopter's repo](#).
 
-## Contributing
+## [Contributing](contributing)
 
 We have weekly meetings on Tuesdays! Please email <a href="mailto:contact@theroot.dev">contact@theroot.dev</a> to be added to the working group.
 
