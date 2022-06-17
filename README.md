@@ -21,6 +21,7 @@ This Ethical License for Open Source, created by [At The Root](https://attheroot
 - [🔗 AntiRacist Ethical Source License](#top)  
 - [🔗 Draft Status](#draft) 
 - [🔗 Usage](#usage)
+- [🔗 Methodologies](#methodologies)
 - [🔗 FAQ](#faq)
 - [🔗 Press Coverage](#press)
 - [🔗 Contributors](#contributors)
@@ -41,6 +42,12 @@ This is a draft version, pre 1.0 of the AntiRacist License. We are accepting con
 Copy the license into the root directory of your project, add your copyright information and use the abbreviation `ATR` where necessary to describe your choice of license. Add badge to the `README.md` of your project.
 
 <img src="https://img.shields.io/badge/license-ATR-yellow">
+
+## [Methodologies](methodologies)
+
+The Hippocratic License (v. 3.0) developed by OES served as the starting point for both the language and scope for the Antiracist license. To ensure that this license addressed the most pressing severe areas that racist tech aversely affects marinalized people of color, we looked to the work of the National Association for the Advancement of Colored People (NAACP), the American Civil Liberties Union (ACLU), and the Democratic Socialists of America (DSA). By combining the perspectives and on-going social justice efforts of these progressive organizations with our personal experiences and research, we crafted the ethical standards of the license. 
+
+Of course, the ATR license is intended to be a living document that adapts and adjusts to the needs of the groups and communties negatviely affected by racism in tech. It is our hope that through real-life testing and community input that the ethical standards of the license become more comprehensive and protective as time moves forward.  
 
 ## [FAQ](faq) 
 
