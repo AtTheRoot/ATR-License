@@ -21,7 +21,7 @@ This Ethical License for Open Source, created by [At The Root](https://attheroot
 - [🔗 AntiRacist Ethical Source License](#top)  
 - [🔗 Draft Status](#draft) 
 - [🔗 Usage](#usage)
-- [🔗 Methodologies(#methodologies)
+- [🔗 Methodologies](#methodologies)
 - [🔗 FAQ](#faq)
 - [🔗 Press Coverage](#press)
 - [🔗 Contributors](#contributors)
